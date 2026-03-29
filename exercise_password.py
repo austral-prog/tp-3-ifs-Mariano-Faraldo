@@ -17,4 +17,4 @@ def password():
     if not muy_corta and tiene_numero:
         print("Contraseña valida")
 
-password()
+# password()

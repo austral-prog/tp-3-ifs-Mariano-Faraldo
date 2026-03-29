@@ -10,5 +10,5 @@ def grades():
     elif nota >= 0 and nota <= 4:
         print("Insuficiente")
 
-grades()
+# grades()
 

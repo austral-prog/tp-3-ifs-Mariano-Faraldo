@@ -31,6 +31,6 @@ def discount():
     print(f"Monto de descuento: {monto_descuento}")
     print(f"Total final: {total_final}")
 
-discount()
+# discount()
 
     

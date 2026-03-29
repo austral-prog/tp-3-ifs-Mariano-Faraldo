@@ -8,4 +8,4 @@ def weekday():
     else:
         print("Fin de semana")
 
-weekday()
+# weekday()

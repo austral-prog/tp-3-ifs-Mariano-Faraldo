@@ -12,5 +12,5 @@ def compare():
         elif numero_1 == numero_2:
             print(f"{numero_1} es igual a {numero_2}")
 
-compare()
+# compare()
 
